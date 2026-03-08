@@ -46,9 +46,9 @@ CIRCUIT DIAGRAM:
 a.   KVL:
 
 
-      <img width="598" height="371" alt="image" src="https://github.com/user-attachments/assets/318055f4-d8cc-4be8-8a99-6ab7d371fac5" />
+ <img width="598" height="371" alt="image" src="https://github.com/user-attachments/assets/318055f4-d8cc-4be8-8a99-6ab7d371fac5" />
 
-      <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/967922e8-b332-41a9-bd8f-65cccd92ee04" />
+ <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/967922e8-b332-41a9-bd8f-65cccd92ee04" />
 
  
 
@@ -56,9 +56,9 @@ a.   KVL:
 b.  KCL:
 
 
-    <img width="597" height="494" alt="image" src="https://github.com/user-attachments/assets/ef14ce20-7ebd-4ad9-ae63-0815799e674b" />
+ <img width="597" height="494" alt="image" src="https://github.com/user-attachments/assets/ef14ce20-7ebd-4ad9-ae63-0815799e674b" />
 
-    <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/3fac7a0d-e7e2-4a6e-91f5-e22f52c86228" />
+ <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/3fac7a0d-e7e2-4a6e-91f5-e22f52c86228" />
 
  
 
